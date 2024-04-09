@@ -1,0 +1,14 @@
+diff --git a/readme.txt b/readme.txt
+index 422b795..0462b69 100644
+--- a/readme.txt
++++ b/readme.txt
+@@ -1,4 +1,9 @@
++
++#iTshirt
+ 개발자 티셔츠 쇼핑몰 오픈소스 짱
++
++##  코드삽입예시
+ dhsh d
+ d
++$ git init
+ 
